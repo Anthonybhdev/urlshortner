@@ -25,7 +25,7 @@
 
 - [npm](https://www.npmjs.com/)
 - [node.js](https://nodejs.org/en)
-- [ejs] (https://ejs.co/)
+- [ejs](https://ejs.co/)
 - [express.js](https://expressjs.com/)
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
